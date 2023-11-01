@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joreilly86
 - 📐 I'm a civil/structural engineer specializing in the design, development and construction of global hydropower projects.
-- 👀 I’m interested in developing Python for civil and structural engineering tasks.
-- 💞️ I’m looking to collaborate on developing civil/structural engineering scripts that can streamline common engineering design tasks.
-- 🎓 Currently working on a Python project for professional engineers - [flocode.dev](https://flocode.dev/)
+- 🔍 Interests: Dedicated to leveraging Python for automating and optimizing civil and structural engineering tasks.
+- 🤝 Collaboration: Open to partnerships that focus on creating efficient engineering scripts and tools for real-world design challenges.
+- 🎓 Current Project: Leading the development of [flocode.dev](https://flocode.dev/), a Python resource aimed at professional engineers.
 - 🔬 For real-world engineering work, come and see me on [LinkedIn](https://www.linkedin.com/in/james-o-reilly-engineering/)
 
 <!---

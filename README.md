@@ -3,7 +3,7 @@
 - 🔍 **Interests:** Dedicated to leveraging Python for automating and optimizing civil and structural engineering tasks.
 - 🤝 **Collaboration:** Open to partnerships that focus on creating efficient engineering scripts and tools for real-world design challenges.
 - 🎓 **Current Project:** Leading the development of [flocode.dev](https://flocode.dev/), a Python resource aimed at professional engineers.
-- 📰 **My Newsletter:** [Flocode: Engineering Insights 🌊](https://flocode.substack.com/). Learn about practical coding applications and AI tools tailored for engineers. Subscribe for free!
+- 📰 **My Newsletter:** [Flocode: Engineering Insights 🌊](https://flocode.substack.com/). Learn about practical coding applications and AI tools tailored for engineers.
 - 🔬 For real-world engineering work, come and see me on [LinkedIn](https://www.linkedin.com/in/james-o-reilly-engineering/)
 
 <!---
